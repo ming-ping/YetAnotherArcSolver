@@ -5,3 +5,6 @@
 # Rotations: Rotate the grid by 90°, 180°, or 270° clockwise or counter-clockwise.
 # Flips: Flip the grid horizontally or vertically.
 # Transposition: Swap the x and y axes (transpose the grid).
+
+def a():
+    return 1
