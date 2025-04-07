@@ -1,7 +1,7 @@
 from distutils.core import setup
 
 setup(name='yarc',
-      version='0.1.0',
+      version='0.1.1',
       description='Solve The Abstraction and Reasoning Corpus for Artificial General Intelligence',
       author='yarc contributors',
       author_email='mingping765@gmailcom',
